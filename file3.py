@@ -13,3 +13,6 @@ def f3():
 
 def f4():
     pass
+
+def f5():
+    pass
