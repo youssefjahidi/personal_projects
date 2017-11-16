@@ -33,7 +33,8 @@ def f9():
 def f10():
     pass
 
-def f200():
+def f200(x):
+    x = 200
     pass
 def f11():
     pass
