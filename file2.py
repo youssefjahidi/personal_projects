@@ -42,5 +42,5 @@ def f5(x):
 def f6():
     pass
 
-
-
+def f7():
+    pass
