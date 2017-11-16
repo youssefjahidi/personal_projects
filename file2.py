@@ -35,3 +35,6 @@ def branch_3(x):
 def f_4(x):
     pass
 
+def f5(x):
+    pass
+
