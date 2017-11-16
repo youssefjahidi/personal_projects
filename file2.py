@@ -39,5 +39,8 @@ def f5(x):
     x += 1
     return x
 
+def f6():
+    pass
+
 
 
