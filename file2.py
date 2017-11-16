@@ -22,3 +22,7 @@ def g_v_4(n):
 "this is new wrk, very important"
 def new_branch(x):
     print("ok")
+
+# let's add a 2nd function to the branch work
+def branch_2(x):
+    return x
