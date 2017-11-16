@@ -30,3 +30,7 @@ def branch_2(x):
 # a 3rd function
 def branch_3(x):
     pass
+# 4th function
+
+def f_4(x):
+    pass
