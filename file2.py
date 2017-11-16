@@ -36,5 +36,8 @@ def f_4(x):
     pass
 
 def f5(x):
-    pass
+    x += 1
+    return x
+
+
 
