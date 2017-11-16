@@ -50,3 +50,6 @@ def f8():
 
 def f9():
     pass
+
+def f10():
+    pass
