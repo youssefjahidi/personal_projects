@@ -7,3 +7,6 @@ def f30():
 
 def f31():
     pass
+
+def f32():
+    pass
