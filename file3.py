@@ -14,5 +14,12 @@ def f3():
 def f4():
     pass
 
-def f5():
+def f5(x):
+    x = x+1
+    return x
+
+def f6():
+    pass
+
+def f7():
     pass
