@@ -16,3 +16,9 @@ def f4():
 
 def f5():
     pass
+
+def f6():
+    pass
+
+def f7():
+    pass
