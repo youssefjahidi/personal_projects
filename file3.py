@@ -23,3 +23,6 @@ def f6():
 
 def f7():
     pass
+
+def f8():
+    pass
