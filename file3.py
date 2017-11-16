@@ -19,3 +19,6 @@ def f34():
 
 def f35():
     pass
+
+def f36():
+    pass
