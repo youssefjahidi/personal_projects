@@ -41,5 +41,6 @@ def f11():
 def f12():
     pass
 
-def f13():
+def f13(x):
+    x = x**2
     pass
