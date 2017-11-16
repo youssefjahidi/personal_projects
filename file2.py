@@ -27,3 +27,8 @@ def new_branch(x):
 def branch_2(x):
     return x
 
+
+# a 3rd function
+def branch_3(x):
+    pass
+
