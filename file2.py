@@ -11,3 +11,5 @@ def g(n):
     return n
 
 
+def function_v_2(x):
+    return x
