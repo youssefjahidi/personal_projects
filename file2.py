@@ -18,3 +18,8 @@ def f_v_4(x):
 
 def g_v_4(n):
     return n+1
+
+" Add on to the master"
+def master_funct(n):
+    pass
+
