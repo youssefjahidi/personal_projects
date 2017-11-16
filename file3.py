@@ -35,3 +35,8 @@ def f10():
 
 def f200():
     pass
+def f11():
+    pass
+
+def f12():
+    pass
