@@ -38,7 +38,8 @@ def f200():
 def f11():
     pass
 
-def f12():
+def f12(x):
+    x = 1
     pass
 
 def f13(x):
