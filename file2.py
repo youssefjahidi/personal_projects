@@ -11,6 +11,10 @@ def g(n):
     return n
 
 
-def f_v_3(x):
-    x += 1
+def f_v_4(x):
+    x += 3
+    x = x**2
     return x
+
+def g_v_4(n):
+    return n+1
